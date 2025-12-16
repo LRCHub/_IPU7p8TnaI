@@ -1,24 +1,24 @@
 {
   "version": 1,
-  "base_track": "らふぃおら",
+  "base_track": "愛なんていらねいよ",
   "base_artist": "ゴールデンボンバー",
-  "createdAt": "2025-12-15T09:42:12.573161Z",
+  "createdAt": "2025-12-16T20:24:21.459197Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "らふぃおら",
-      "artist": "GOLDEN BOMBER",
-      "has_synced": true,
-      "path": "select/01_らふぃおら_GOLDEN_BOMBER.lrc"
+      "title": "Ai Nante Irane yo (愛なんていらねいよ)",
+      "artist": "Golden Bomber (ゴールデンボンバー)",
+      "has_synced": false,
+      "path": "select/01_Ai_Nante_Irane_yo_(愛なんていらねいよ)_Golden_Bomber_(ゴールデンボンバー).txt"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "らふぃおら",
+      "title": "愛なんていらねいよ",
       "artist": "ゴールデンボンバー",
       "has_synced": false,
-      "path": "select/pl_01_らふぃおら_ゴールデンボンバー.txt"
+      "path": "select/pl_01_愛なんていらねいよ_ゴールデンボンバー.txt"
     }
   ]
 }
