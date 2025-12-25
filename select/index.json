@@ -1,24 +1,24 @@
 {
   "version": 1,
-  "base_track": "愛なんていらねいよ",
+  "base_track": "ウジ虫",
   "base_artist": "ゴールデンボンバー",
-  "createdAt": "2025-12-16T20:24:21.459197Z",
+  "createdAt": "2025-12-25T18:28:20.911861Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Ai Nante Irane yo (愛なんていらねいよ)",
-      "artist": "Golden Bomber (ゴールデンボンバー)",
+      "title": "Ujimushi (ウジ虫)",
+      "artist": "Golden Bomber (ールデンボンバー)",
       "has_synced": false,
-      "path": "select/01_Ai_Nante_Irane_yo_(愛なんていらねいよ)_Golden_Bomber_(ゴールデンボンバー).txt"
+      "path": "select/01_Ujimushi_(ウジ虫)_Golden_Bomber_(ールデンボンバー).txt"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "愛なんていらねいよ",
+      "title": "ウジ虫",
       "artist": "ゴールデンボンバー",
       "has_synced": false,
-      "path": "select/pl_01_愛なんていらねいよ_ゴールデンボンバー.txt"
+      "path": "select/pl_01_ウジ虫_ゴールデンボンバー.txt"
     }
   ]
 }
